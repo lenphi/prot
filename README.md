@@ -4,7 +4,7 @@
 2. Aufzählung 2
 3. Aufzählung 3
 
-![Win](https://scatter.co.in/wp-content/uploads/2019/08/shutterstock_1311774404.jpg)
+![Win](https://tenor.com/En4M.gif)
 
 [Quelle 1](https://www.tagesanzeiger.ch/) Quelle 1
 
