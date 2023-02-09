@@ -29,6 +29,7 @@ Die Ergebnisse werden in einem pandas dataframe fortlaufend gespeichert.
 ## 3 Auswertung
 
 Das Dataframe umfasst über 9000 Einträge zu jedem einzelnen Votum von rund 180 GemeinderätInnen der Legislaturperiode 2018-2022. 
+Wer sind die VielrednerInnen im Stadtparlament? Wie steht es um den Redeanteil der Frauen und innerhalb der Parteien?
 
 ## 4 Artikel
 
